@@ -1,0 +1,84 @@
+
+/* GENERAL */
+
+body {
+
+}
+
+.text-center {
+	text-align: center;
+}
+
+.center {
+	margin: 0 auto 0 auto;
+}
+
+.w10p {
+	width: 10%;
+}
+
+table tr {
+	
+}
+
+
+/* BLOCK */
+
+.navbar {
+	margin-bottom: 10px;
+}
+
+.content {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+.contact-list p span {
+	font-size: 2em;
+}
+
+
+/* MISC */
+
+.logo-correct {
+	padding-left: 15%;
+}
+
+.label-progress {
+
+}
+
+.descr-home {
+	text-align: justify;
+	padding-top: 5%;
+}
+
+.descr-about, .home-descr-lib {
+	text-align: justify;
+}
+
+.home-lib-img {
+	padding-bottom: 4%;
+}
+
+.home-panel { 
+	height: 100%;
+}
+
+.switch-lang:hover {
+	cursor:pointer;
+}
+
+.video-promo {
+	width: 100%;
+	margin: 2% 0 2% 0;
+}
+
+.team-page .row {
+	padding-bottom: 25px;
+}
+
+.panel-part img {
+	float: left;
+	margin: 5px 20px 0px 0px;
+}
